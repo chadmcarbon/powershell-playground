@@ -3,11 +3,11 @@
 This Repository is a collection of standalone PowerShell scripts created for learning, experimentation, and automation.
 
 ## Included Scripts 
-- **create-ad-top-level-ou.ps1** — Creates top level Active Directory OU
-  - e.g. Employees, Workstations etc...
-
-- **create-ad-dept-ou.ps1** — Creates departmental OU under Employees OU
-  - e.g. IT, Finance, Sales etc...
+- **Create-OU-1.ps1** — Creates top level Active Directory OU
+  - Workstations, Employees, Service Accounts etc
+  
+- **Create-OU-2.ps1** — Creates departmental OU under Employees OU
+  - HR, Finance, Etc
 
 ## Usage
 Run any script directly in PowerShell:
