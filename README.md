@@ -1,4 +1,4 @@
-# PowerShell PlayGround
+# PowerShell Playground
 
 This Repository is a collection of standalone PowerShell scripts created for learning, experimentation, and automation.
 

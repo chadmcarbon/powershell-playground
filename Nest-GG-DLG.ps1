@@ -1,6 +1,8 @@
 <#
-This script nests the Employee Global Groups into the Domain Local Group using 
-the Add-ADGroupMember cmdlet. 
+This script nests (adds) the Employee Global Groups into the Domain Local Group 
+using the Add-ADGroupMember cmdlet.
+
+Important for assigning permissions to users and not individuals.
 #>
 
 # Display the message on the console...
